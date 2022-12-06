@@ -4,7 +4,7 @@
 **Javillat/Javillat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ###
-
+-->
 <h2>  Hola 👋 soy Veronica!!   🖥️  Full-Stack Web Developer 🖥️ </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
