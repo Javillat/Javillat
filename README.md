@@ -10,7 +10,7 @@
 
 
 
-[![Linkedin: Javier](https://img.shields.io/badge/-veronica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/javillatoro)](https://www.linkedin.com/in/veronica-gonzalez-juy/)
+[![Linkedin: Javier](https://img.shields.io/badge/-veronica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/javillatoro)](www.linkedin.com/in/javillatoro)
 [![GitHub Javier](https://img.shields.io/github/followers/Javillat
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas sobre mi...  
 
@@ -34,7 +34,7 @@ Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y
 # 🖥️ Tecnologías
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,postgres,git,md,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,postgres,mysql,git,java" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@ Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=550&height=100&lines=El+mundo+necesita+mas+gente+ame+lo+que+hace)](https://git.io/typing-svg)❤️
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=550&height=100&lines=El+mundo+necesita+mas+gente+que+ame+lo+que+hace)](https://git.io/typing-svg)
 
 
 
