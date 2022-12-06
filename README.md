@@ -1,17 +1,17 @@
-### Hi there 👋
+### Holaaa 👋
 
 <!--
 **Javillat/Javillat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ###
 -->
-<h2>  Hola 👋 soy Veronica!!   🖥️  Full-Stack Web Developer 🖥️ </h2>
+<h2>👋 Soy Javier Villatoro!!   🖥️  Full-Stack Web Developer 🖥️ </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
 
-[![Linkedin: veronica](https://img.shields.io/badge/-veronica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veronica-gonzalez-juy/)](https://www.linkedin.com/in/veronica-gonzalez-juy/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/verojuy)
+[![Linkedin: javier](https://img.shields.io/badge/-veronica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/javillatoro)](https://www.linkedin.com/in/veronica-gonzalez-juy/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Javillat)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas sobre mi...  
