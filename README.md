@@ -16,24 +16,23 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas sobre mi...  
 
-Soy desarrolladora web 👩💻 me considero una persona sociable capas de asumir retos siempre comprometida con lo que hago con solidos conocimientos tecnicos y una gran habilidad para trabajar en equipo adaptandome a las circuntancias tanto de tiempo como de exigencias  con capacidad para la resolucion de problemas
-
-❤️Me gusta
+Soy desarrollador web y me encanta asumir nuevos retos siempre, comprometido con lo que hago, aportando conocimientos tecnicos solidos y en formación constante, cada día es una nueva oportunidad para hacer algo mejor y avanzar hacia la excelencia. 
+Poseo una gran habilidad para trabajar en equipo, lo cual me encanta la sinergia que se genera al tratar con diferentes caracteres y personalidades. Adaptarme a las circuntancias tanto de tiempo como de exigencias y relaciión interpersonal siempre es un reto, crear o escribir código es una pasión y solucionar problemas o crearmelos todo un reto.
 
 Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y ayudar a los demas
 
-📚 Me gradue en  HENRY. con mas de 800 hora de cursado teórico-práctico.
+📚 La cursuda en HENRY brutal, con mas de 800 hora de aprendisaje teórico-práctico.
 
-* 🌍  Vivo en Cordoba, Argentina
+* 🌍  Me encuentras en San Miguel, San Miguel, El Salvador.
 
 
 
 ## 📈 Mis Estadísticas
 <a href="http://www.github.com/Auriarte20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Auriarte20&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/verojuy"><img src="https://github-readme-stats.vercel.app/api?username=verojuy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="verojuy's GitHub stats" /></a>
+<a href="https://github.com/Javillat"><img src="https://github-readme-stats.vercel.app/api?username=Javillat&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Javillat's GitHub stats" /></a>
 
-<a href="https://github.com/auriarte20" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auriarte20&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Javillat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javillat&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 # 🖥️ Tecnologías
@@ -46,7 +45,7 @@ Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y
 
 
 ### ✉️ Si quieres saber más sobre mi
-* Puedes contactarme por [email](mailto:verojuy.gonzalez@gmail.com) o por [Linkedln](https://www.linkedin.com/in/veronica-gonzalez-juy/)!
+* Puedes contactarme por [email](mailto:wemakesoftx@gmail.com) o por [Linkedln](www.linkedin.com/in/javillatoro/)!
 
 
 
@@ -69,4 +68,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
