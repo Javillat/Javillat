@@ -21,14 +21,12 @@ Poseo una gran habilidad para trabajar en equipo, lo cual me encanta la sinergia
 
 Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y ayudar a los demas
 
-📚 La cursuda en HENRY brutal, con mas de 800 hora de aprendisaje teórico-práctico.
-
 * 🌍  Me encuentras en San Miguel, San Miguel, El Salvador.
 
 
 
 ## 📈 Mis Estadísticas
-<a href="http://www.github.com/Auriarte20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Auriarte20&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Javillat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Javillat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Javillat"><img src="https://github-readme-stats.vercel.app/api?username=Javillat&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Javillat's GitHub stats" /></a>
 
