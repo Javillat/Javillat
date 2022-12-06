@@ -42,7 +42,7 @@ Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y
 
 
 ### ✉️ Si quieres saber más sobre mi
-* Puedes contactarme por [email](mailto:wemakesoftx@gmail.com) o por [Linkedln](www.linkedin.com/in/javillatoro/)!
+* Puedes contactarme por [email](mailto:wemakesoftx@gmail.com) o por [Linkedln](https://www.linkedin.com/in/javillatoro/)!
 
 
 
