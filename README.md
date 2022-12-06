@@ -10,9 +10,10 @@
 <!--<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">-->
 
 
-
+<!--
 [![Linkedin: Javier](https://img.shields.io/badge/Javier-blue?link=www.linkedin.com/in/javillatoro)]
 [![GitHub: Javier](https://img.shields.io/github/followers/Javillat)
+-->
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas sobre mi...  
 
 Soy desarrollador web y me encanta asumir nuevos retos siempre, comprometido con lo que hago, aportando conocimientos tecnicos solidos y en formación constante, cada día es una nueva oportunidad para hacer algo mejor y avanzar hacia la excelencia. 
