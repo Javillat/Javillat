@@ -11,8 +11,8 @@
 
 
 
-[![Linkedin: Javier](https://img.shields.io/badge/Javier-In-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/javillatoro)](www.linkedin.com/in/javillatoro)
-[![GitHub Javier](https://img.shields.io/github/followers/Javillat)
+[![Linkedin: Javier](https://img.shields.io/badge/Javier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/javillatoro)]
+[![GitHub: Javier](https://img.shields.io/github/followers/Javillat)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas sobre mi...  
 
 Soy desarrollador web y me encanta asumir nuevos retos siempre, comprometido con lo que hago, aportando conocimientos tecnicos solidos y en formación constante, cada día es una nueva oportunidad para hacer algo mejor y avanzar hacia la excelencia. 
