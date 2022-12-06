@@ -10,10 +10,8 @@
 
 
 
-[![Linkedin: javier](https://img.shields.io/badge/-veronica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/javillatoro)](https://www.linkedin.com/in/veronica-gonzalez-juy/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Javillat)
-
-
+[![Linkedin: Javier](https://img.shields.io/badge/-veronica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/javillatoro)](https://www.linkedin.com/in/veronica-gonzalez-juy/)
+[![GitHub Javier](https://img.shields.io/github/followers/Javillat
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas sobre mi...  
 
 Soy desarrollador web y me encanta asumir nuevos retos siempre, comprometido con lo que hago, aportando conocimientos tecnicos solidos y en formación constante, cada día es una nueva oportunidad para hacer algo mejor y avanzar hacia la excelencia. 
@@ -54,7 +52,7 @@ Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y
 
 
 
-
+<!--
 
 Here are some ideas to get you started:
 
@@ -66,4 +64,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
