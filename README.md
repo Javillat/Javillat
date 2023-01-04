@@ -36,7 +36,7 @@ Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y
 # 🖥️ Tecnologías
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,postgres,mysql,git,github,java,vercel,vscode,eclipse,jquery&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,postgres,mysql,git,github,java,vercel,vscode,eclipse,jquery,materialui,discord&perline=8" />
   </a>
 </p>
 
