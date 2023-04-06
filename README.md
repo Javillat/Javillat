@@ -7,7 +7,7 @@
 -->
 <h2>👋 Soy Javier Villatoro!!   🖥️  Full-Stack Web Developer 🖥️ </h2>
 
-<!--<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">-->
+<!--<img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230">-->
 
 
 <!--
