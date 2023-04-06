@@ -14,7 +14,7 @@
 [![Linkedin: Javier](https://img.shields.io/badge/Javier-blue?link=www.linkedin.com/in/javillatoro)]
 [![GitHub: Javier](https://img.shields.io/github/followers/Javillat)
 -->
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas sobre mi...  
+### <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50"> Un poco mas sobre mi...  
 
 Soy desarrollador web y me encanta asumir nuevos retos siempre, comprometido con lo que hago, aportando conocimientos tecnicos solidos y en formación constante, cada día es una nueva oportunidad para hacer algo mejor y avanzar hacia la excelencia. 
 Poseo una gran habilidad para trabajar en equipo, lo cual me encanta la sinergia que se genera al tratar con diferentes caracteres y personalidades. Adaptarme a las circuntancias tanto de tiempo como de exigencias y relaciión interpersonal siempre es un reto, crear o escribir código es una pasión y solucionar problemas o crearmelos todo un reto.
