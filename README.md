@@ -1,11 +1,11 @@
-### Holaaa 👋
+### ¡Quihúbole!
 
 <!--
 **Javillat/Javillat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ###
 -->
-<h2>👋 Soy Javier Villatoro!!   🖥️  Full-Stack Web Developer 🖥️ </h2>
+<h2>Soy Javier Villatoro!!   🖥️  Full-Stack Web Developer 🖥️ </h2>
 
 <!--<img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230">-->
 
@@ -14,7 +14,7 @@
 [![Linkedin: Javier](https://img.shields.io/badge/Javier-blue?link=www.linkedin.com/in/javillatoro)]
 [![GitHub: Javier](https://img.shields.io/github/followers/Javillat)
 -->
-### <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50"> Un poco mas sobre mi...  
+### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"> Un poco mas sobre mi... <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="30"> 
 
 Soy desarrollador web y me encanta asumir nuevos retos siempre, comprometido con lo que hago, aportando conocimientos tecnicos solidos y en formación constante, cada día es una nueva oportunidad para hacer algo mejor y avanzar hacia la excelencia. 
 Poseo una gran habilidad para trabajar en equipo, lo cual me encanta la sinergia que se genera al tratar con diferentes caracteres y personalidades. Adaptarme a las circuntancias tanto de tiempo como de exigencias y relaciión interpersonal siempre es un reto, crear o escribir código es una pasión y solucionar problemas o crearmelos todo un reto.
