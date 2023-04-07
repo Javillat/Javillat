@@ -21,7 +21,7 @@ Me desenvuelvo comodamente trabajando en equipo o liderando alguno, me encanta l
 
 Desarrollar proyectos que tengan un impacto social positivo es fascinante para mí; hacer la diferencia en mi comunidad, en mi entorno, lanzarlo hacia un beneficio de sectores amplios.
 
-# 🖥️ Mi Actividad hoy por hoy.
+# <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="70"> En Qué Me Ocupo A La Fecha 06-04-2023.
 Actualmente estoy desarrollando un proyecto e-commerce fullstack, el objetivo de ello, el retail de ropa.
 
 Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y ayudar a los demas.
