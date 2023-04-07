@@ -16,14 +16,17 @@
 -->
 ### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60"> Un poco mas sobre mi... <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50"> 
 
-Soy desarrollador web y me encanta asumir nuevos retos siempre, comprometido con lo que hago, aportando conocimientos tecnicos solidos y en formación constante, cada día es una nueva oportunidad para hacer algo mejor y avanzar hacia la excelencia. 
-Poseo una gran habilidad para trabajar en equipo, lo cual me encanta la sinergia que se genera al tratar con diferentes caracteres y personalidades. Adaptarme a las circuntancias tanto de tiempo como de exigencias y relaciión interpersonal siempre es un reto, crear o escribir código es una pasión y solucionar problemas o crearmelos todo un reto.
+Hago desarrollo web y me encanta asumir nuevos retos. Siempre comprometido con lo que hago, aportando conocimientos tecnicos solidos y en formación constante, cada día es una nueva oportunidad para hacer algo mejor y avanzar hacia la excelencia. 
+Me desenvuelvo comodamente trabajando en equipo o liderando alguno, me encanta la sinergia que se genera al tratar con diferentes carácteres y personalidades. Adaptarme a las circuntancias tanto de tiempo como de exigencias y relaciión interpersonal siempre es un reto, crear o escribir código es una pasión y solucionar problemas o crearmelos todo un reto que me genera emoción indistintamente.
 
-Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y ayudar a los demas
+Me encanta desarrollar proyectos que tengan un impacto social positivo, hacer la diferencia en mi comunidad, en mi entorno, lanzarlo hacia un beneficio de sectores amplios.
 
-* 🌍  Me encuentras en San Miguel, San Miguel, El Salvador.
+# 🖥️ Mi Actividad hoy por hoy.
+Actualmente estoy desarrollando un proyecto e-commerce fullstack, el objetivo de ello, el retail de ropa.
 
+Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y ayudar a los demas.
 
+*🌍Me encuentras en San Miguel, San Miguel, El Salvador.
 
 ## 📈 Mis Estadísticas
 <a href="http://www.github.com/Javillat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Javillat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
