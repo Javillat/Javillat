@@ -22,7 +22,7 @@ Me desenvuelvo comodamente trabajando en equipo o liderando alguno; me encanta l
 
 Desarrollar proyectos que tengan un impacto social positivo es fascinante para mí; hacer la diferencia en mi comunidad, en mi entorno, lanzarlo hacia un beneficio de sectores amplios.
 
-Me encanta el ajedrez, me libera del estres diario puedo conectarme con mas gente probar mis habilidades en el tablero y ganar que me fascina... ### <img src="https://media.giphy.com/media/9POMmQiLkvhRzKFXyT/giphy.gif" width="60"> 
+### <img src="https://media.giphy.com/media/9POMmQiLkvhRzKFXyT/giphy.gif" width="60"> Me encanta el ajedrez, me libera del estres diario puedo conectarme con mas gente probar mis habilidades en el tablero y ganar que me fascina... 
 
 # <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="70"> En Qué Me Ocupo A La Fecha 06-04-2023.
 Actualmente estoy desarrollando un proyecto e-commerce fullstack, el objetivo de ello, el retail de ropa.
