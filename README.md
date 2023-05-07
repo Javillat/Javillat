@@ -55,7 +55,7 @@ Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=550&height=100&lines=El+mundo+necesita+mas+gente+que+ame+lo+que+hace)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=550&height=100&lines=El+azar+favorece+una+mente+brillante)](https://git.io/typing-svg)
 
 
 
