@@ -16,19 +16,17 @@
 -->
 ### 📘 Un poco mas sobre mi... 📘 
 
-Hago desarrollo web y me encanta asumir nuevos retos. Siempre comprometido con lo que hago, aportando conocimientos tecnicos solidos y en formación constante, cada día es una nueva oportunidad para hacer algo mejor y avanzar hacia la excelencia. 
+🔷 Hago desarrollo web y me encanta asumir nuevos retos. Siempre comprometido con lo que hago, aportando conocimientos tecnicos solidos y en formación constante, cada día es una nueva oportunidad para hacer algo mejor y avanzar hacia la excelencia. 
 
-Me desenvuelvo comodamente trabajando en equipo o liderando alguno; me encanta la sinergia que se genera al tratar con diferentes carácteres y personalidades. Adaptarme a las circuntancias tanto de tiempo como de exigencias y relaciión interpersonal siempre es un reto, crear o escribir código es una pasión y solucionar problemas o crearmelos todo un reto que me genera emoción indistintamente.
+🔷 Me desenvuelvo comodamente trabajando en equipo o liderando alguno; me encanta la sinergia que se genera al tratar con diferentes carácteres y personalidades. Adaptarme a las circuntancias tanto de tiempo como de exigencias y relaciión interpersonal siempre es un reto, crear o escribir código es una pasión y solucionar problemas o crearmelos todo un reto que me genera emoción indistintamente.
 
-Desarrollar proyectos que tengan un impacto social positivo es fascinante para mí; hacer la diferencia en mi comunidad, en mi entorno, lanzarlo hacia un beneficio de sectores amplios.
+🔷 Desarrollar proyectos que tengan un impacto social positivo es fascinante para mí; hacer la diferencia en mi comunidad, en mi entorno, lanzarlo hacia un beneficio de sectores amplios.
 
-<img src="https://media.giphy.com/media/9POMmQiLkvhRzKFXyT/giphy.gif" width="60"> 
-Me encanta el ajedrez, me libera del estres diario, puedo conectarme con mas gente, probar mis habilidades en el tablero y ganar que me fascina... 
+🔷 Me encanta el ajedrez, me libera del estres diario, puedo conectarme con mas gente, probar mis habilidades en el tablero y ganar que me fascina... 
 
-# <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="70"> Mi ocupación en el día a día.
-=> Actualmente estoy desarrollando un proyecto e-commerce fullstack, el objetivo de ello, el retail de ropa.
+🔷 Actualmente estoy desarrollando un proyecto e-commerce fullstack, el objetivo de ello, el retail de ropa.
 
-Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y ayudar a los demas.
+🔷 Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y ayudar a los demas.
 
 🌍Me encuentras en San Miguel, San Miguel, El Salvador.
 
