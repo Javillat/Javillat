@@ -14,7 +14,7 @@
 [![Linkedin: Javier](https://img.shields.io/badge/Javier-blue?link=www.linkedin.com/in/javillatoro)]
 [![GitHub: Javier](https://img.shields.io/github/followers/Javillat)
 -->
-### <img src="https://media.giphy.com/media/9POMmQiLkvhRzKFXyT/giphy.gif" width="60"> Un poco mas sobre mi... <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50"> 
+### 📘 Un poco mas sobre mi... 📘 
 
 Hago desarrollo web y me encanta asumir nuevos retos. Siempre comprometido con lo que hago, aportando conocimientos tecnicos solidos y en formación constante, cada día es una nueva oportunidad para hacer algo mejor y avanzar hacia la excelencia. 
 
