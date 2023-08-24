@@ -16,7 +16,7 @@
 -->
 ### 📘 Un poco mas sobre mi... 📘 
 
-🔷 Hago desarrollo web y me encanta asumir nuevos retos. Siempre comprometido con lo que hago, aportando conocimientos tecnicos solidos y en formación constante, cada día es una nueva oportunidad para hacer algo mejor y avanzar hacia la excelencia. 
+🔷 Hago desarrollo web y me encanta asumir nuevos retos. Comprometido con lo que hago, aportando conocimientos técnicos solidos y en formación constante, cada día es una nueva oportunidad para hacer algo mejor y avanzar hacia la excelencia. 
 
 🔷 Me desenvuelvo comodamente trabajando en equipo o liderando alguno; me encanta la sinergia que se genera al tratar con diferentes carácteres y personalidades. Adaptarme a las circuntancias tanto de tiempo como de exigencias y relaciión interpersonal siempre es un reto, crear o escribir código es una pasión y solucionar problemas o crearmelos todo un reto que me genera emoción indistintamente.
 
