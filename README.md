@@ -1,11 +1,9 @@
-## ¡Quihúbole!
-
 <!--
 **Javillat/Javillat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ###
 -->
-# Hi, I'm Javier Villatoro 👋
+# ¡Quihúbole!, I'm Javier Villatoro 👋
 
 **Fullstack Developer** | Passionate problem solver | Minimalist code enthusiast
 
@@ -62,6 +60,15 @@
 
 ---
 
+
+# 🖥️ Tecnologías
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,postgres,mysql,git,github,java,vercel,vscode,eclipse,jquery,materialui,discord&perline=8" />
+  </a>
+</p>
+
+
 ### ⚡ A Bit More About Me
 
 - ♟️ Chess enthusiast
@@ -74,21 +81,8 @@
 Minimal, professional, and always open to exciting opportunities!
 -->
 
-# 🖥️ Tecnologías
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,postgres,mysql,git,github,java,vercel,vscode,eclipse,jquery,materialui,discord&perline=8" />
-  </a>
-</p>
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=550&height=100&lines=El+azar+favorece+una+mente+brillante)](https://git.io/typing-svg)
-
-
-
-
 
 <!--
 
